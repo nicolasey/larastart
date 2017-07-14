@@ -166,6 +166,7 @@ return [
         /*
          * Package Service Providers...
          */
+        Arcanedev\LogViewer\LogViewerServiceProvider::class,
         Laravel\Tinker\TinkerServiceProvider::class,
 
         /*
