@@ -8,3 +8,7 @@ parameters:
             fixers: []
             level: ~
             verbose: true
+        behat:
+            config: ~
+            format: ~
+            stop_on_failure: false    
